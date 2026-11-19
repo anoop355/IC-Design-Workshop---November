@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a full adder circuit written on vhdl code.
 
 ## How to test
 
-Explain how to use your project
+None
 
 ## External hardware
 
